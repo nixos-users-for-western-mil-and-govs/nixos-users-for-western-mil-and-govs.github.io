@@ -29,11 +29,11 @@ including the Internet and [high-level programming languages](https://en.wikiped
 ## To the Foundation
 
 We ask you to think deeply about the long term consequences of your decisions, beyond public relations.
-There is a loud crowd opposed to any intersection between Nix and militaries development.
-But loud doesn't mean right. 
-We are asking the NixOS Foundation to take a strong, maximalist stance in who is allowed to contribute to the Nix community,
+There is a loud crowd opposed to any intersection between Nix and military development.
+But loud doesn't mean right.
+We are asking the NixOS Foundation to take a strong, maximalist stance on who is allowed to contribute to the Nix community,
 and where people are excluded, to establish a clear set of guidelines consistent with the principle of free speech.
-We hope NixOS foundation members share our love of an individual rights of expression, for all humans, everywhere.
+We hope NixOS foundation members share our love of individual rights of expression, for all humans, everywhere.
 
 * * *
 
