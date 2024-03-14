@@ -53,7 +53,7 @@ Signing this open letter only means that:
 
 ### Signing
 
-If you agree with the contents of this letter, you can [open a Pull Request at this letter's repository](https://github.com/NixOS-Users-Against-MIC-Sponsorship/NixOS-Users-Against-MIC-Sponsorship.github.io/pulls), add a file under `signatures` named the same as your GitHub account, and write out how you want the signature to appear.
+If you agree with the contents of this letter, you can [open a Pull Request at this letter's repository](https://github.com/NixOS-Users-For-Western-MIL-and-GOVs/NixOS-Users-For-Western-MIL-and-GOVs.github.io/pulls), add a file under `signatures` named the same as your GitHub account, and write out how you want the signature to appear.
 
 
 The [Pull Request template](https://github.com/NixOS-Users-For-Western-MIL-and-GOVs/NixOS-Users-For-Western-MIL-and-GOVs.github.io/blob/letter/.github/PULL_REQUEST_TEMPLATE.md) has information about what to do.
