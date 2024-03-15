@@ -1,15 +1,15 @@
 In response to [Open Letter against MIC sponsorship](https://nixos-users-against-mic-sponsorship.github.io/).
 
 For many years, tech workers have refused to work with Western militaries and the private defense companies that supply them,
-citing ethical concerns about ever-growing _Military Industrial Complex_. Dwight Eisenhower, commander of Allied Forces in World War 2, said it well:
+citing ethical concerns about the ever-growing _Military Industrial Complex_. Dwight Eisenhower, commander of Allied forces in World War 2, said it well:
 
 > Every gun that is made, every warship launched, every rocket fired signifies, in the final sense, a theft from those who hunger and are not fed, those who are cold and are not clothed.
 > This world in arms is not spending money alone. It is spending the sweat of its laborers, the genius of its scientists, the hopes of its children.
 
 [His warning](https://www.americanrhetoric.com/speeches/dwighteisenhowercrossofiron.htm) is as true today as it was in 1953.
-All the same, Western hegemony is currently under attack by authoritarian regimes all around the globe. 
+All the same, Western hegemony is currently under attack by authoritarian regimes around the globe.
 And while many—including those in the Nix community—are right to criticize the grievous injustices it perpetuates,
-this hegemony provides and protects the basic human rights we take for granted:
+this hegemony provides and protects the basic human rights we enjoy:
 - freedom of speech
 - civil liberties
 - women's rights
@@ -21,9 +21,9 @@ We are not at the end of history: recent world events show us that we can not ta
 We must defend them—sometimes with great violence—from those who would try to take them away.
 
 Defending our values requires the development of new weapons systems and the software that drives them.
-War has spurred technological development for all of recorded history,
-and while this results in terrible new weapons,
-it has also produced miracles of the modern world,
+War has always spurred technological development,
+and while this produces new terrors,
+it has also provided miracles of the modern world,
 including the Internet and [high-level programming languages](https://en.wikipedia.org/wiki/Grace_Hopper).
 
 ## To the Foundation
