@@ -17,8 +17,8 @@ this hegemony provides and protects the basic human rights we enjoy:
 - rule of law
 - equality under the law
 
-We are not at the end of history: recent world events show us that we can not take these values for granted.
-We must defend them—sometimes with great violence—from those who would try to take them away.
+
+I believe that we are not at the end of history: recent world events show us that we can not take these values for granted.We must defend them—sometimes with great violence—from those who would try to take them away.
 
 Defending our values requires the development of new weapons systems and the software that drives them.
 War has always spurred technological development,
@@ -28,24 +28,24 @@ including the Internet and [high-level programming languages](https://en.wikiped
 
 ## To the Foundation
 
-We ask you to think deeply about the long term consequences of your decisions, beyond public relations.
+I ask you to think deeply about the long term consequences of your decisions, beyond public relations.
 There is a loud crowd opposed to any intersection between Nix and military development.
 But loud doesn't mean right.
-We are asking the NixOS Foundation to take a strong, maximalist stance on who is allowed to contribute to the Nix community,
+I am asking the NixOS Foundation to take a strong, maximalist stance on who is allowed to contribute to the Nix community,
 and where people are excluded, to establish a clear set of guidelines consistent with the principle of free speech.
-We hope NixOS foundation members share our love of individual rights of expression, for all humans, everywhere.
+I hope NixOS foundation members share my love of individual rights of expression, for all humans, everywhere.
 
 * * *
 
 ## Implementation Details
 
-By signing this open letter, we endorse Western, Enlightenment values.
-We understand that these values must be protected from violent authoritarians who would undermine them,
+By signing this open letter, I endorsed Western, Enlightenment values.
+I understand that these values must be protected from violent authoritarians who would undermine them,
 and insist that there is no inherent evil in using violence to protect those values when they come under attack.
 
 ### Signing
 
-If you agree with the contents of this letter, you can [open a Pull Request at this letter's repository](https://github.com/nixos-users-for-western-mil-and-govs/NixOS-Users-For-Western-MIL-And-GOVs.github.io/pulls), add a file under `signatures` named the same as your GitHub account, and write out how you want the signature to appear.
+If you agree with the contents of this letter, you can try [opening a Pull Request at this letter's repository](https://github.com/nixos-users-for-western-mil-and-govs/NixOS-Users-For-Western-MIL-And-GOVs.github.io/pulls), adding a file under `signatures` named the same as your GitHub account, and writing out how you want the signature to appear. However, it's not likely to get merged.
 
 
 The [Pull Request template](https://github.com/NixOS-Users-For-Western-MIL-and-GOVs/NixOS-Users-For-Western-MIL-and-GOVs.github.io/blob/letter/.github/PULL_REQUEST_TEMPLATE.md) has information about what to do.
